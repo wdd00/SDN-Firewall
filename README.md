@@ -1,6 +1,8 @@
 ## Rules:
 Block all traffic between h1 and h2
+
 Block IMCP traffic from any hosts to h4
+
 Block HTTP traffic from h3 to h4
 
 ## Execution steps:
